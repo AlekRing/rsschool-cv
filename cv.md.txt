@@ -9,3 +9,19 @@
 #### I want to contribute professional skills to achieving your company's goals as a frontend developer.
 I am seeking employment with a company where i can use my love of technology with the opportunity to apply my knowledge of English.
 ----------------------------------------------------
+
+# Skills
+I have basic programming skills in languages: С, javaSkript. Familiar with the principles of OOP.
+----------------------------------------------------
+
+# Code
+My githab link: [C code](https://github.com/AlekRing/Piscine)
+----------------------------------------------------
+
+# Education
+2015—2019 Kazan State University of Architecture and Engineering
+----------------------------------------------------
+
+# Language skills
+1. Russian - native
+1. English - intermidiate
