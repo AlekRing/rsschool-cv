@@ -1,0 +1,17 @@
+.mainContentBlock {
+    max-width: 1024px;
+    background-color:rgba(238, 238, 238, 0.8);
+    display: block;
+    margin: auto;
+    padding: 2%;
+}
+
+.cvHeaders {
+    text-decoration: underline;
+}
+
+.underlineDecoration {
+    width: inherit;
+    margin-top: 15px;
+    border-top: 1px solid rgba(50, 50, 50, 0.4);
+}
