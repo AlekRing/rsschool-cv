@@ -4,14 +4,33 @@
     display: block;
     margin: auto;
     padding: 2%;
+    font-family: Roboto, sans-serif;
 }
 
 .cvHeaders {
     text-decoration: underline;
+    letter-spacing: px;
+    cursor: default;
+    transition: 0.3s;
+}
+
+.cvHeaders:hover {
+    transition: 0.3s;
+    top: -8px;
+    left: 8px;
+    transform: translateY(-3%);
 }
 
 .underlineDecoration {
     width: inherit;
     margin-top: 15px;
     border-top: 1px solid rgba(50, 50, 50, 0.4);
+}
+
+.cvBlocks:hover {
+    transition: 0.3s;
+    top: -8px;
+    left: 8px;
+    transform: translateY(-5%);
+    box-shadow: -4px 4px 0px #c5c5c5;
 }
