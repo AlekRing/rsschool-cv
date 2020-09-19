@@ -1,0 +1,27 @@
+# Personal information
+1. My name: Oleg Koltsov
+1. My Email: okolcov60@gmail.com
+1. My adress: 30 Kamaleeva street, Kazan, 420083, Russia
+1. Date of birth: 24.02.1997
+====================================================
+
+# Objective
+#### I want to contribute professional skills to achieving your company's goals as a frontend developer.
+I am seeking employment with a company where i can use my love of technology with the opportunity to apply my knowledge of English.
+----------------------------------------------------
+
+# Skills
+I have basic programming skills in languages: С, javaSkript. Familiar with the principles of OOP.
+----------------------------------------------------
+
+# Code
+My githab link: [C code](https://github.com/AlekRing/Piscine)
+----------------------------------------------------
+
+# Education
+2015—2019 Kazan State University of Architecture and Engineering
+----------------------------------------------------
+
+# Language skills
+1. Russian - native
+1. English - intermidiate
